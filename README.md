@@ -1,5 +1,5 @@
 # Operating Systems Project 1  
-**CS3113 – Introduction to Operating Systems **
+**CS3113 – Introduction to Operating Systems - Spring 2025**
 
 ## Project Description  
 This project involves the implementation of a simplified simulation of operating system process management. The objective is to emulate key operating system functionalities such as process control, memory allocation, instruction execution, and job scheduling. The program reads structured process data, manages memory allocation dynamically, and simulates instruction execution for each process through a basic CPU model.
