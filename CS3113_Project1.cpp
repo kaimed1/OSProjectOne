@@ -1,6 +1,4 @@
 
-// WORKING COPY WRITTEN BY TA'S OF OPERATING SYSTEMS
-
 #include <iostream>
 #include <queue>
 #include <string>
